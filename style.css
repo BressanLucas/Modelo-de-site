@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+body {
+background: lightgray url(image/fundo.png)}
+#principal {
+    
+    text-align: center;
+    
+}
+#inicial {
+    margin-left: 200px;
+    border: 10px solid lightgray;
+}
+#conteudo {
+    width: 900px;
+    padding: 0px auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#menu {
+   
+    font-size: 20px;
+    padding: 20px;
+    background-color: lightgray;
+    
+}
+a {
+ text-decoration: none;
+ font-size: 20px;
+ color: rgb(46, 45, 45);
+
+}
+#descricao {
+    background-color: white;
+    border: 1.5em solid white;
+   
+
+}
+h1 {
+    font-size: 20px;
+    color: gray;
+}
+#rodape {
+    text-align: center;
+    background-color: rgba(84, 117, 6, 0.596);
+}
+#chat {
+background-color: rgba(84, 117, 6, 0.596);
+padding: 0.5em;
+width:150px;
+height: 200px;
+position: fixed;
+bottom: 0;
+left: 0;
+text-align: center;
+
+}

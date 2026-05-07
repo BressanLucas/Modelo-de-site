@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+@charset "UTF-8";
+
+body {
+background-color: rgba(240, 223, 70, 0.562);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#inicio {
+    margin-left: 350px;
+    border: 8px solid rgba(224, 152, 44, 0.541);
+}
+
+
+#menu {
+   
+    font-size: 20px;
+    padding: 20px;
+    background-color: rgba(224, 152, 44, 0.541);
+    text-align: center;
+}
+#conteudo {
+    
+    padding: 0px auto;
+    text-align: center;
+    
+}
+#imageum {
+   
+  margin-left: 690px; /* move para a direita */
+  border: 8px solid rgba(224, 152, 44, 0.541);
+
+}
+#imagedois {
+    margin-right: 690px;
+    border: 8px solid rgba(224, 152, 44, 0.541);
+}
+p {
+    text-align: center;
+    color: rgb(46, 45, 45);
+    
+}
+
+a {
+ text-decoration: none;
+ font-size: 20px;
+ color: rgb(46, 45, 45);
+ text-align: center;
+
+}
+#descricao {
+    background-color: white;
+    border: 1.5em solid white;
+    text-align: center;
+   
+
+}
+
+#rodape {
+    text-align: center;
+    background-color: rgba(224, 152, 44, 0.541);
+}
+#chat {
+    background-color: rgba(224, 152, 44, 0.541);
+    position: fixed;
+    padding: 0.5em;
+    width: 150px;
+    height: 200px;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}
